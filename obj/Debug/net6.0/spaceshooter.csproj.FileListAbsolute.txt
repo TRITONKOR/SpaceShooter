@@ -1,0 +1,15 @@
+C:\Users\Alex\Desktop\gfjgj\spaceshooter\spaceshooter\bin\Debug\net6.0\spaceshooter.exe
+C:\Users\Alex\Desktop\gfjgj\spaceshooter\spaceshooter\bin\Debug\net6.0\spaceshooter.deps.json
+C:\Users\Alex\Desktop\gfjgj\spaceshooter\spaceshooter\bin\Debug\net6.0\spaceshooter.runtimeconfig.json
+C:\Users\Alex\Desktop\gfjgj\spaceshooter\spaceshooter\bin\Debug\net6.0\spaceshooter.dll
+C:\Users\Alex\Desktop\gfjgj\spaceshooter\spaceshooter\bin\Debug\net6.0\spaceshooter.pdb
+C:\Users\Alex\Desktop\gfjgj\spaceshooter\spaceshooter\obj\Debug\net6.0\spaceshooter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\gfjgj\spaceshooter\spaceshooter\obj\Debug\net6.0\spaceshooter.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\gfjgj\spaceshooter\spaceshooter\obj\Debug\net6.0\spaceshooter.AssemblyInfo.cs
+C:\Users\Alex\Desktop\gfjgj\spaceshooter\spaceshooter\obj\Debug\net6.0\spaceshooter.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\gfjgj\spaceshooter\spaceshooter\obj\Debug\net6.0\spaceshooter.sourcelink.json
+C:\Users\Alex\Desktop\gfjgj\spaceshooter\spaceshooter\obj\Debug\net6.0\spaceshooter.dll
+C:\Users\Alex\Desktop\gfjgj\spaceshooter\spaceshooter\obj\Debug\net6.0\refint\spaceshooter.dll
+C:\Users\Alex\Desktop\gfjgj\spaceshooter\spaceshooter\obj\Debug\net6.0\spaceshooter.pdb
+C:\Users\Alex\Desktop\gfjgj\spaceshooter\spaceshooter\obj\Debug\net6.0\spaceshooter.genruntimeconfig.cache
+C:\Users\Alex\Desktop\gfjgj\spaceshooter\spaceshooter\obj\Debug\net6.0\ref\spaceshooter.dll

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "tGmfk1GjZYpmsYeeiRcwBzwWmSYXeQ3rtZaMVSlFiHiV9lCiUAmgY6M9ka5+RK8+ZkVnJnwjKPLI1RX+wWz3KA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Desktop\\gfjgj\\spaceshooter\\spaceshooter\\spaceshooter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.26\\microsoft.windowsdesktop.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.26\\microsoft.netcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.26\\microsoft.aspnetcore.app.ref.6.0.26.nupkg.sha512",
+    "C:\\Users\\Alex\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.26\\microsoft.netcore.app.host.win-x64.6.0.26.nupkg.sha512"
+  ],
+  "logs": []
+}
